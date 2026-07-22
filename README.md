@@ -1,2 +1,2 @@
-# Python-GEN_AI-
+# Python-GEN_AI
 GEN AI classes notes and exercises.......
